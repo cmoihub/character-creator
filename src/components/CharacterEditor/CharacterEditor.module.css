@@ -30,6 +30,7 @@
 .controlColumn {
 }
 
+/* named perspectiveEffect instead */
 .grey {
   position: fixed;
   width: 100%;

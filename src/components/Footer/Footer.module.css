@@ -9,3 +9,10 @@
 a {
   color: white;
 }
+
+/*
+  Solution
+  .footer a {
+    color: inherit
+  }
+*/
