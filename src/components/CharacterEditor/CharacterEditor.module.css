@@ -8,6 +8,7 @@
 
 .header {
   padding-bottom: 64px;
+  max-width: 65%;
 }
 
 .title {
@@ -27,4 +28,16 @@
 }
 
 .controlColumn {
+}
+
+.grey {
+  position: fixed;
+  width: 100%;
+  background-color: hsl(195deg, 20%, 86%);
+  bottom: 0;
+  height: 40%;
+}
+
+main {
+  isolation: isolate;
 }
